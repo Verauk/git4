@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-22572fe63d65.js"></script>
   
 
-  <title>my-awsome-app/index.html at master · wecodeschool/my-awsome-app</title>
+  <title>my-awsome-app/script.js at master · wecodeschool/my-awsome-app</title>
 
 
 
     
 
-  <meta name="request-id" content="CE48:CCFF:1EE5564:2009295:635A50FF" data-turbo-transient="true" /><meta name="html-safe-nonce" content="c2a56a39231896432a35ab77cea831282c5a58497a639d712c05093a9e744b5b" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkNFNDg6Q0NGRjoxRUU1NTY0OjIwMDkyOTU6NjM1QTUwRkYiLCJ2aXNpdG9yX2lkIjoiNDc4NzUzMDM2MDY2OTQzOTE2OCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="22d0fccc7eb08ef37fdb5bcbd12e4f486429ced4813a15870bee037ecd77c293" data-turbo-transient="true" />
+  <meta name="request-id" content="CE48:CCFF:1EEDF33:2011F99:635A5107" data-turbo-transient="true" /><meta name="html-safe-nonce" content="c2a56a39231896432a35ab77cea831282c5a58497a639d712c05093a9e744b5b" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkNFNDg6Q0NGRjoxRUVERjMzOjIwMTFGOTk6NjM1QTUxMDciLCJ2aXNpdG9yX2lkIjoiNDc4NzUzMDM2MDY2OTQzOTE2OCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="fc84c613e4f991245d2f98633fda834339ecc8f5f4eec65ffd507a8a5de3b578" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:214437425" data-turbo-transient>
 
@@ -111,11 +111,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/88cac887d10d4ebb098728b3eb11885e557c7f72e0b949fd4cb9fa714656858e/wecodeschool/my-awsome-app" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="my-awsome-app/index.html at master · wecodeschool/my-awsome-app" /><meta name="twitter:description" content="Contribute to wecodeschool/my-awsome-app development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/88cac887d10d4ebb098728b3eb11885e557c7f72e0b949fd4cb9fa714656858e/wecodeschool/my-awsome-app" /><meta property="og:image:alt" content="Contribute to wecodeschool/my-awsome-app development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="my-awsome-app/index.html at master · wecodeschool/my-awsome-app" /><meta property="og:url" content="https://github.com/wecodeschool/my-awsome-app" /><meta property="og:description" content="Contribute to wecodeschool/my-awsome-app development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/88cac887d10d4ebb098728b3eb11885e557c7f72e0b949fd4cb9fa714656858e/wecodeschool/my-awsome-app" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="my-awsome-app/script.js at master · wecodeschool/my-awsome-app" /><meta name="twitter:description" content="Contribute to wecodeschool/my-awsome-app development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/88cac887d10d4ebb098728b3eb11885e557c7f72e0b949fd4cb9fa714656858e/wecodeschool/my-awsome-app" /><meta property="og:image:alt" content="Contribute to wecodeschool/my-awsome-app development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="my-awsome-app/script.js at master · wecodeschool/my-awsome-app" /><meta property="og:url" content="https://github.com/wecodeschool/my-awsome-app" /><meta property="og:description" content="Contribute to wecodeschool/my-awsome-app development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/116795323/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTY3OTUzMjMsInMiOjk4MDcxNjI1MywiYyI6MjI2MzQzNDk0MiwidCI6MTY2Njg2MzM2N30=--9bfb2ca1a23098017decf591f5a5a973d16b4f42ed040b4e025fa90b94cf7bfc" data-refresh-url="/_alive" data-session-id="3f8e1606bb5d3749f6492e5b3f3adbb2de9126dadd15647ef70fb01c0ba6f38d">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/116795323/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTY3OTUzMjMsInMiOjk4MDcxNjI1MywiYyI6Mjg0NDA2NTk2LCJ0IjoxNjY2ODYzMzkyfQ==--4638f26fad8e37e5a5f11f8c952fa241c12e546fc413598b1fa13bc997959041" data-refresh-url="/_alive" data-session-id="3f8e1606bb5d3749f6492e5b3f3adbb2de9126dadd15647ef70fb01c0ba6f38d">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -145,7 +145,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/wecodeschool/my-awsome-app/blob/master/index.html" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/wecodeschool/my-awsome-app/blob/master/script.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -239,7 +239,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="vPLadKn_pnI36nePw56D3aQVTQZ6ux_YAGlUh6GzDY2rCMF4PZ-T3QUM4mm23qP5cmztZkUiQkl3zAmUAYDbVA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="NJgoZyhRPgDyWoto_XaB9KGmuMCJnvjmewJpdcNSCt4jYjNrvDELr8C8Ho6INqHQd98YoLYHpXcMpzRmY2HcBw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -438,7 +438,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Verauk&quot;,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="50f1f614c9c40f52d14f54ea172a83a2c3c257eb804b1663ef48dd879e68c0b1" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Verauk&quot;,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="5b63f19f1607d86afbf1c658037944e61f6d57ae187a9853439ec2b69ba0aa65" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -446,7 +446,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/116795323?s=40&amp;v=4" width="20" height="20" alt="@Verauk" />
       Verauk
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2rqE96-6YjSX6308Cb0OI_g_L5L-Rb2k_k_CVZ9Y6e_wctyHz1RqC7zgOog7wgHakB0bBhjrgOl5NKV-MKroaQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-q7Wxs7Opef5rilwiXvzVmTQcTYqknb1PmM4yg9aJKzQZo62riCt2NKlbsS7BPyvDPJFosw8S7i5GF_hoKglKg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -481,7 +481,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE2Nzk1MzIzIiwidCI6MTY2Njg2MzM2N30=--4644a476404984e1ee3b4f3faf7c44ce4cc980894a205de5f7a5f48d9549a84f" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE2Nzk1MzIzIiwidCI6MTY2Njg2MzM5Mn0=--94257dbc2d4632de39d0685471cc1d1049218d5a6e08b8cef825c454d7ccb5df" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -636,7 +636,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/wecodeschool/my-awsome-app/blob/master/index.html
+      return-to=/wecodeschool/my-awsome-app/blob/master/script.js
       user-id="116795323"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1605,7 +1605,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="7a939f8fe6d828e3866055a7dbfb234033d14243285b30f6fc147ad657e594b8" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="a435d82c6dbe06ec507a4693f5b2f1b79818e1dd3eec983e1ad11536274a71c3" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1657,7 +1657,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cO6xjNoQw3rapO091kZK4sScd4AwYcaxb29NiSLFFYC4mGO7ARdo9E0IJkgJDmebMggAWVOIyTBi0cqzVNexXw" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pLW2I2JiAoSVoEZkHqEq_qpK9b4QiTA6yiDh50PlBPFsw2QUuWWpCgIMjRHB6QeHXN6CZ3NgP7vHnmbdNfegLg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="214437425">
 
@@ -1785,7 +1785,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EiVKIGvO_WHCfEkjPRrd2SevOGlB5PaVlWDi_FYkyUjaU5gXsMlW71XQglbiUvCg0TtPsCIN-RSY3mXGIDZtlw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1ZwYWyWmPk-yDDAN1v_Kq8Tc2p1ABxBILvBtZ2o32fId6sps_qGVwSWg-3gJt-fSMkitRCPuH8kjTupdHCV9LQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="214437425">
 
@@ -1936,7 +1936,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/wecodeschool/my-awsome-app/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="ad9969783bd5cf217d706b92b80585fafc1b4b34dc5cf11b8a4fcb1884478f0a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of wecodeschool/my-awsome-app" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/wecodeschool/my-awsome-app/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="a2afc3304fbc3d345c0a07e43da9a100d3c6c7f7c770304135a7c4e13970b02c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of wecodeschool/my-awsome-app" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="144" data-view-component="true" class="Counter">144</span>
@@ -1954,13 +1954,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c84a67">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-143b4a">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-c84a67"
+        id="filter-menu-143b4a"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2002,10 +2002,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/wecodeschool/my-awsome-app/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="m7tERNdsEPvTNST42KBGYM50pJjxwdGLCB3Cu20Mi2C8te0BmGIS_Clyf7VPVtfolYsbrI-giXcPdPzWss20PA" autocomplete="off" />
-          <input type="hidden" value="VZSQ6SKsMVASw_cAu8JnE1Paz0GFSpY8vxREtT5sqWpymjmsbaIzV-iErE0sNPabCCVwdfsrzsC4fXrY4a2WNg" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/wecodeschool/my-awsome-app/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OemlY-D9I6Jj8eWwQVivelqiBao-3oMpdrSSVST3PAAe5wwmr_MhpZm2vv3Wrj7yAV26nkC_29Vx3aw4-zYDXA" autocomplete="off" />
+          <input type="hidden" value="Jfz7KdlL1Pp9sxD8ziAUsk_JSAJ-5oAyfKFlh_rIC_AC8lJslkXW_Yf0S7FZ1oU6FDb3NgCH2M57yFvqJQk0rA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="b7ee60047b31b735cde3379e9749109002a834719357d03b040cf003a6306532" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (12)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="b57d85821d7208f97327d9e7ed197629ab9d4d257793e650316595cc4d1f938c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (12)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2023,13 +2023,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-714639">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-686ee3">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-714639"
+        id="filter-menu-686ee3"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2050,9 +2050,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/wecodeschool/my-awsome-app/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="g-McDs65bLmnYruprLwyrogH4iDoc_4JnDOYnruvtk4K_AugvQnNBEYTn5V1Co6OZwCGhreuqI_zp0XQ4YJOaw" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/wecodeschool/my-awsome-app/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fVav6z3m7IPCuDXItGhQAwkV8u1T0q2nf5vLIHfKbq30SbhFTlZNPiPJEfRt3uwj5hKWSwwP-yEQDxZuLeeWiA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="252af36ac4aac74283151a647954dbbdd3ce79234be06787a6eb44d8f55eb2f7" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (12)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="cb0b937d8323850a1ae2d7872fcb5201ec9f8e927f65335a1196eeb5e64dfe33" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (12)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2070,13 +2070,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-714639">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-686ee3">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-714639"
+        id="filter-menu-686ee3"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2265,7 +2265,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/wecodeschool/my-awsome-app/blob/022055088ceeeb005679f086d38a8a0172443939/index.html">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/wecodeschool/my-awsome-app/blob/022055088ceeeb005679f086d38a8a0172443939/script.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2273,7 +2273,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="578e884353ac21fc0a20904c249590a9ee0c2a735075dbd146b42d87565c9c72">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="f1d1cb0985d88c081662cac294dd6ff5eaf4b5dddeddfc0783026288d5903c9b">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2352,7 +2352,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/wecodeschool/my-awsome-app/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/wecodeschool/my-awsome-app/blob/{{ urlEncodedRefName }}/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2392,7 +2392,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/wecodeschool/my-awsome-app/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/wecodeschool/my-awsome-app/blob/{{ urlEncodedRefName }}/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2453,7 +2453,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/wecodeschool/my-awsome-app"><span>my-awsome-app</span></a></span></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/wecodeschool/my-awsome-app"><span>my-awsome-app</span></a></span></span><span class="separator">/</span><strong class="final-path">script.js</strong>
   </h2>
     <a href="/wecodeschool/my-awsome-app/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2464,7 +2464,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="60c3af33b33312f38aaa77fb37ba6c93c17af5de9b4130883c10da1ea5cde27e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/wecodeschool/my-awsome-app/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="493b1352db19ff6ba517298c1fba31257ed249d4c1b1dd862dab1e7f40835f94" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/wecodeschool/my-awsome-app/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2476,13 +2476,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="script.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/wecodeschool/my-awsome-app/blob/022055088ceeeb005679f086d38a8a0172443939/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/wecodeschool/my-awsome-app/blob/022055088ceeeb005679f086d38a8a0172443939/script.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2514,7 +2514,7 @@
     <include-fragment src="/wecodeschool/my-awsome-app/spoofed_commit_check/022055088ceeeb005679f086d38a8a0172443939" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/wecodeschool/my-awsome-app/contributors/master/index.html" class="commit-loader">
+  <include-fragment src="/wecodeschool/my-awsome-app/contributors/master/script.js" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2548,23 +2548,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      32 lines (32 sloc)
+      0 lines (0 sloc)
       <span class="file-info-divider"></span>
-    1.01 KB
+    0 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/wecodeschool/my-awsome-app/raw/022055088ceeeb005679f086d38a8a0172443939/index.html" href="/wecodeschool/my-awsome-app/raw/master/index.html" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/wecodeschool/my-awsome-app/blame/022055088ceeeb005679f086d38a8a0172443939/index.html" href="/wecodeschool/my-awsome-app/blame/master/index.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/wecodeschool/my-awsome-app/raw/022055088ceeeb005679f086d38a8a0172443939/script.js" href="/wecodeschool/my-awsome-app/raw/master/script.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/wecodeschool/my-awsome-app/blame/022055088ceeeb005679f086d38a8a0172443939/script.js" href="/wecodeschool/my-awsome-app/blame/master/script.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/wecodeschool/my-awsome-app/edit/master/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ds6gFjkVmIlHPlSE9hTinAP22Hz-02NbFw9nq_P0TkDm7JKqgRLHRsLCwOdjeiESkQeiDpl1arUvs_d7-M9eSw" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/wecodeschool/my-awsome-app/edit/master/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="agzLv4FK86txNwgLCt1t0tlNl51QE5C5BSYI4AvWYbfs4l8No8TtaFbR93i10iBDxO5t0M0xCVQuojIMJhIRig" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2574,7 +2574,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/wecodeschool/my-awsome-app/edit/master/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sIPS_lOHK7PkLXxi62Rwpq-eJlXkCIzjF_AYFzjAQ_EgoeBC64B0fGHR6AF-CrMoPW9cJ4OuhQ0vTIjHM_tT-g" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/wecodeschool/my-awsome-app/edit/master/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dNg4Nmmb6nnesQtAQfh-1prVQ4bn7ezHMgKbe-oxZJ3yNqyESxX0uvlX9DP-9zNHh3a5y3rPdSoZhqGXx_UUoA" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2582,7 +2582,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/wecodeschool/my-awsome-app?branch=master&amp;filepath=index.html" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/wecodeschool/my-awsome-app?branch=master&amp;filepath=script.js" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2593,10 +2593,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/wecodeschool/my-awsome-app/raw/022055088ceeeb005679f086d38a8a0172443939/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/wecodeschool/my-awsome-app/raw/022055088ceeeb005679f086d38a8a0172443939/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="3a131ad93932cc75b174668d86b2ae21d29dac72266094f11af5cb91e0389e92" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="9abda6e4d7e2aa7ec4b0ff919dbe7620245b39288cb47eea242a7206a44f3966" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2621,7 +2621,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/wecodeschool/my-awsome-app/delete/master/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="n947ZUQc-c3t2rDQw8lB3YA9a9F61fgKdfrdQUMUXA76F7aGcpjHBGoIEl6tFFHhupkxjk7Y66tMC1i2PlTEuQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/wecodeschool/my-awsome-app/delete/master/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iFc5ehlo-TIJCGz5gg8wWiw-haF9YbO3tHDB0whgtuVR8s8UvMOldHuB883W8EBUmJr-4DlQQifrxYHgiwP2mw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2649,20 +2649,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/wecodeschool/my-awsome-app?branch=master&amp;filepath=index.html">
+                   href="x-github-client://openRepo/https://github.com/wecodeschool/my-awsome-app?branch=master&amp;filepath=script.js">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/wecodeschool/my-awsome-app/raw/master/index.html">
+            <a class="dropdown-item" href="/wecodeschool/my-awsome-app/raw/master/script.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/wecodeschool/my-awsome-app/raw/master/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/wecodeschool/my-awsome-app/raw/master/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/index.html&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="3a131ad93932cc75b174668d86b2ae21d29dac72266094f11af5cb91e0389e92">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:214437425,&quot;originating_url&quot;:&quot;https://github.com/wecodeschool/my-awsome-app/blob/master/script.js&quot;,&quot;user_id&quot;:116795323}}" data-hydro-click-hmac="9abda6e4d7e2aa7ec4b0ff919dbe7620245b39288cb47eea242a7206a44f3966">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2685,20 +2685,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/wecodeschool/my-awsome-app/blame/master/index.html">
+              <a class="dropdown-item" href="/wecodeschool/my-awsome-app/blame/master/script.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/wecodeschool/my-awsome-app/edit/master/index.html">Edit file</a>
+                <a class="dropdown-item" href="/wecodeschool/my-awsome-app/edit/master/script.js">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:214437425,&quot;actor_id&quot;:116795323,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/wecodeschool/my-awsome-app/delete/master/index.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/wecodeschool/my-awsome-app/delete/master/script.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2707,7 +2707,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2735,135 +2735,7 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="index.html">
-        <tr>
-          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot; /&gt;</td>
-        </tr>
-        <tr>
-          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot; /&gt;</td>
-        </tr>
-        <tr>
-          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>http-equiv</span>=&quot;<span class=pl-s>X-UA-Compatible</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>ie=edge</span>&quot; /&gt;</td>
-        </tr>
-        <tr>
-          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>GitHub repo example<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span></td>
-        </tr>
-        <tr>
-          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot;</td>
-        </tr>
-        <tr>
-          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css</span>&quot;</td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>integrity</span>=&quot;<span class=pl-s>sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T</span>&quot;</td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>crossorigin</span>=&quot;<span class=pl-s>anonymous</span>&quot;</td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">    /&gt;</td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>style.css</span>&quot; /&gt;</td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>container</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">        Hosted with</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://www.netlify.com</span>&quot;<span class=pl-kos>&gt;</span>Netlify<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>mailto:matt@delac.io</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn btn-primary contact-btn</span>&quot;</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&gt;</span>Contact me<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span></td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>img</span></td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://paper-attachments.dropbox.com/s_E2839E24FC7F0728D4D3F0A165AC8F6358478DD8AAADC3C02AA1B3047CC41EA8_1560193451463_image.png</span>&quot;</td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>alt</span>=&quot;&quot;</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">      /&gt;</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>script.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
-        </tr>
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="script.js">
   </table>
 </div>
 
@@ -2888,7 +2760,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/wecodeschool/my-awsome-app/blame/022055088ceeeb005679f086d38a8a0172443939/index.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/wecodeschool/my-awsome-app/blame/022055088ceeeb005679f086d38a8a0172443939/script.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/wecodeschool/my-awsome-app/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
